@@ -1,3 +1,4 @@
+import '../sass/main.scss';
 import cardTemplate from '../templates/menu-card.hbs'
 import menuItems from '../menu.json';
 const menuList = document.querySelector('.js-menu');
